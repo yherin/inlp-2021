@@ -1,0 +1,20 @@
+// This graph generated with hfst-fst2txt
+digraph "Vowel FRONTING # 1 CENTER=a:ä" {
+charset = UTF8;
+rankdir = LR;
+node [shape=circle,style=filled,fillcolor=lightblue1]
+q0 [shape=circle,label="0: Reject", fillcolor=yellow] 
+q1 [shape=doublecircle,label="1: Back Vowels OK"] 
+q2 [shape=doublecircle,label="2: inStem: no Back Vowels"] 
+q3 [shape=doublecircle,label="3: InSuffix: no Back Vowels"] 
+q0 -> q0 [label="@:@"];
+q1 -> q0 [label="VowelBack:VowelFront"];
+q1 -> q1 [label="VowelBack:@ , +:0 , @:@"];
+q1 -> q2 [label="#:#"];
+q2 -> q0 [label="VowelBack:VowelFront"];
+q2 -> q1 [label="VowelBack:@"];
+q2 -> q2 [label="ConsNonBackVowel:@"];
+q2 -> q3 [labeldistance=2.5,taillabel="+:0"];
+q3 -> q3 [decorate=true,label="ConsNonBackVowel:@ , VowelBack:VowelFront , +:0"];
+q3 -> q0 [labeldistance=3.5,taillabel="VowelBack:@"];
+}

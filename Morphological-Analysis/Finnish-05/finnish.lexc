@@ -1,0 +1,90 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Multichar_Symbols
+
++Noun                ! POS
++Verb                ! POS
+
+!! LEXICON Verb-Inflection-I
+
++Infinitive-A
++1Person_Singular
++2Person_Singular
++1Person_Plural
++2Person_Plural
++3Person_Plural
+
+!! LEXICON Noun-Inflection-I
+
++Nominative
++Genitive
++Inessive
++Adessive
++Allative
++Elative
++Ablative
++Essive
++Translative
++Illative
+
+!! %>                        !! morpheme boundary (Apertium)
+!! +                         !! morpheme boundary
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Root
+
+Noun-stems ;
+Verb-stems ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-Inflection-I
+
++Infinitive-A:%>a # ;
++1Person_Singular:%>n # ;
++2Person_Singular:%>t # ;
++1Person_Plural:%>mme # ;
++2Person_Plural:%>tte # ;
++3Person_Plural:%>vat # ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-Inflection-I
+
+!! OK too: 
+!! +Nominative:    # ; !!                    
+
++Nominative:%>0    # ; !!                    
++Genitive:%>n    # ; !! of                 
++Inessive:%>ssa  # ; !! in                 
++Adessive:%>lla  # ; !! at                 
++Allative:%>lle  # ; !! onto               
++Elative:%>sta  # ; !! out-of from-within 
++Ablative:%>lta  # ; !! from               
++Essive:%>na   # ; !! as                 
++Translative:%>ksi  # ; !! as-into            
++Illative:%>Vn   # ; !! into               
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-stems
+
+talo+Noun:talo    Noun-Inflection-I ;   ! (house)
+pala+Noun:pala    Noun-Inflection-I ;   ! (piece)
+savu+Noun:savu    Noun-Inflection-I ;   ! (smoke)
+ovi+Noun:ovI      Noun-Inflection-I ;   ! (door)
+katto+Noun:katto  Noun-Inflection-I ;   ! (roof)
+
+isä+Noun:isä      Noun-Inflection-I ;  ! (father)
+hissi+Noun:hissi  Noun-Inflection-I ;  ! (lift)
+kivi+Noun:kivI    Noun-Inflection-I ;  ! (stone)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-stems
+
+palaa+Verb:pala      Verb-Inflection-I ;   ! (burn)
+ajaa+Verb:aja        Verb-Inflection-I ;   ! (drive)
+!! nukkua+Verb:nukku Verb-Inflection-I ;   ! (sleep)
+
+kysyä+Verb:kysy      Verb-Inflection-I ;  ! (ask)
+kestää+Verb:kestä    Verb-Inflection-I ;  ! (last)
+heittää+Verb:heittä  Verb-Inflection-I ;  ! (berate)
