@@ -1,0 +1,18 @@
+digraph G { rankdir="LR"
+node [fontname="Tahoma",shape=box,fontsize=14,fixedsize=false,fillcolor="grey",style=filled]
+edge [fontname="FreeMono",fontsize=14]
+0 [label="#",peripheries=2];
+1 [label="Root"];
+1 -> 6 ;
+1 -> 5 ;
+2 [label="Clitics"];
+2 -> 0 ;
+3 [label="Verb-Infl-I"];
+3 -> 2 ;
+4 [label="Noun-Infl-I"];
+4 -> 2 ;
+5 [label="Noun-stems"];
+5 -> 4 ;
+6 [label="Verb-stems"];
+6 -> 3 ;
+}

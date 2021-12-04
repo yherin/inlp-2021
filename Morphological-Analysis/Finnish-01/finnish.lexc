@@ -1,0 +1,105 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Multichar_Symbols
+
++Noun                ! POS
++Verb                ! POS
+
+!! LEXICON Verb-Inflection-I
+
++Infinitive-A
++1Person_Singular
++2Person_Singular
++1Person_Plural
++2Person_Plural
++3Person_Plural
+
+!! LEXICON Noun-Inflection-I
+
++Nominative
++Genitive
++Inessive
++Adessive
++Allative
++Elative
++Ablative
++Essive
++Translative
+
+!! %>                        !! morpheme boundary (Apertium)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Root
+
+Noun-stems ;
+Verb-stems ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-Inflection-I
+
++Infinitive-A:a # ;
++1Person_Singular:n # ;
++2Person_Singular:t # ;
++1Person_Plural:mme # ;
++2Person_Plural:tte # ;
++3Person_Plural:vat # ;
+
+!! for VERB-FR class: verbs with no back vowels
+LEXICON Verb-Inflection-FR
+
++Infinitive-A:ä # ;
++1Person_Singular:n # ;
++2Person_Singular:t # ;
++1Person_Plural:mme # ;
++2Person_Plural:tte # ;
++3Person_Plural:vät # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-Inflection-I
+
+!! OK too: 
+!! +Nominative:    # ; !!                       Nominative
+
++Nominative:    # ; !!
++Genitive:n    # ; !! of
++Inessive:ssa  # ; !! in
++Adessive:lla  # ; !! at
++Allative:lle  # ; !! onto
++Elative:sta  # ; !! out-of from-within
++Ablative:lta  # ; !! from             
++Essive:na   # ; !! as                 
++Translative:ksi  # ; !! as-into       
+
+
+LEXICON Noun-Inflection-FR
+
++Nominative:    # ; !!              
++Genitive:n    # ; !! of             
++Inessive:ssä  # ; !! in             
++Adessive:llä  # ; !! at             
++Allative:lle  # ; !! onto           
++Elative:stä  # ; !! out-of from-within
++Ablative:ltä  # ; !! from             
++Essive:nä   # ; !! as                 
++Translative:ksi  # ; !! as-into       
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-stems
+
+talo+Noun:talo    Noun-Inflection-I ;   ! (house)
+pala+Noun:pala    Noun-Inflection-I ;   ! (piece)
+savu+Noun:savu    Noun-Inflection-I ;   ! (smoke)
+
+isä+Noun:isä      Noun-Inflection-FR ;  ! (father)
+hissi+Noun:hissi  Noun-Inflection-FR ;  ! (lift)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-stems
+
+palaa+Verb:pala    Verb-Inflection-I ;   ! (burn)
+ajaa+Verb:aja      Verb-Inflection-I ;   ! (drive)
+
+kysyä+Verb:kysy    Verb-Inflection-FR ;  ! (ask)
+kestää+Verb:kestä  Verb-Inflection-FR ;  ! (last)

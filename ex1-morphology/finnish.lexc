@@ -1,0 +1,133 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Multichar_Symbols
+
++Noun                ! POS
++Verb                ! POS
+
+!! LEXICON Verb-Inflection-I
+
++Infinitive-A
++1Person_Singular
++2Person_Singular
++3Person_Singular
++1Person_Plural
++2Person_Plural
++3Person_Plural
++Imperative
+
+!! LEXICON Noun-Inflection-I
+
++Nominative
++Genitive
++Inessive
++Adessive
++Allative
++Elative
++Ablative
++Essive
++Translative
++Illative
+
+!! %>                        !! morpheme boundary (Apertium)
+!! +                         !! morpheme boundary
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Root
+
+Noun-stems ;
+Verb-stems ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Clitics
+
+# ;
++Interrogative:⛒ko   # ;
+!+Emphatic:⛒kin   # ;
+!+Negative:⛒kaan   # ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-Inflection-I
+
++Infinitive-A:%>a       Clitics ;
++1Person_Singular:%>n   Clitics ;
++2Person_Singular:%>t   Clitics ;
++3Person_Singular:%>V   Clitics ;
++1Person_Plural:%>mme   Clitics ;
++2Person_Plural:%>tte   Clitics ;
++3Person_Plural:%>vat   Clitics ;
++Imperative:%>X           ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-Inflection-I
+
+!! OK too: 
+!! +Nominative:    # ; !!                       
+
++Nominative:%>0    Clitics ; !!                    
++Genitive:%>n      Clitics ; !! of                 
++Inessive:%>ssa    Clitics ; !! in                 
++Adessive:%>lla    Clitics ; !! at                 
++Allative:%>lle    Clitics ; !! onto               
++Elative:%>sta     Clitics ; !! out-of from-within 
++Ablative:%>lta    Clitics ; !! from               
++Essive:%>na       Clitics ; !! as                 
++Translative:%>ksi Clitics ; !! as-into            
++Illative:%>Vn     Clitics ; !! into               
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-stems
+
+talo+Noun:talo      Noun-Inflection-I ;   ! (house)
+pala+Noun:pala      Noun-Inflection-I ;   ! (piece)
+savu+Noun:savu      Noun-Inflection-I ;   ! (smoke)
+ovi+Noun:ovI        Noun-Inflection-I ;   ! (door) !! oveko
+katto+Noun:katto    Noun-Inflection-I ;   ! (roof)
+kaste+Noun:kaste    Noun-Inflection-I ;   ! (baptism)
+
+isä+Noun:isä        Noun-Inflection-I ;  ! (father)
+hissi+Noun:hissi    Noun-Inflection-I ;  ! (lift)
+kivi+Noun:kivI      Noun-Inflection-I ;  ! (stone)
+pöytä+Noun:pöytä    Noun-Inflection-I ;  ! (table)
+
+kukko+Noun:kukko    Noun-Inflection-I ;  ! (rooster)
+lakko+Noun:lakko    Noun-Inflection-I ;  ! (strike)
+
+kaappi+Noun:kaappi  Noun-Inflection-I ;  ! (closet)
+lappi+Noun:lappi    Noun-Inflection-I ;  ! (lapland)
+
+tapa+Noun:tapa      Noun-Inflection-I ;  ! (habit)
+lapa+Noun:lapa      Noun-Inflection-I ;  ! (shoulder)
+
+leuka+Noun:leuka    Noun-Inflection-I ;  ! (chin)
+
+poika+Noun:poika    Noun-Inflection-I ;  ! (boy)
+aika+Noun:aika Noun-Inflection-I ; ! ( time)
+
+puku+Noun:puku      Noun-Inflection-I ;  ! (dress/suit)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-stems
+
+palaa+Verb:pala         Verb-Inflection-I ;   ! (burn)
+ajaa+Verb:aja           Verb-Inflection-I ;   ! (drive)
+nukkua+Verb:nukku       Verb-Inflection-I ;   ! (sleep)
+
+kysyä+Verb:kysy         Verb-Inflection-I ;  ! (ask)
+kestää+Verb:kestä       Verb-Inflection-I ;  ! (last)
+heittää+Verb:heittä     Verb-Inflection-I ;  ! (berate)
+löytää+Verb:löytä       Verb-Inflection-I ;  ! (find)
+nokkia+Verb:nokki       Verb-Inflection-I ;  ! (peck)
+hankkia+Verb:hankki     Verb-Inflection-I ;  ! (fetch/get)
+
+tappaa+Verb:tappa       Verb-Inflection-I ;  ! (kill)
+appaa+Verb:appa         Verb-Inflection-I ;  ! (devour)
+
+riipiä+Verb:riipi       Verb-Inflection-I ;  ! (strip)
+hiipiä+Verb:hiipi       Verb-Inflection-I ;  ! (sneak)
+
+kokea+Verb:koke         Verb-Inflection-I ;  ! (experience)
+lukea+Verb:luke         Verb-Inflection-I ;  ! (read)

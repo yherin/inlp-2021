@@ -1,0 +1,81 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Multichar_Symbols
+
++Noun                ! POS
++Verb                ! POS
+
+!! LEXICON Verb-Infl-I
+
++InfA
++1_Sg
++2_Sg
++1_Pl
++2_Pl
++3_Pl
+
+!! LEXICON Noun-Infl-I
+
++Nom
++Gen
++Ine
++Ade
++All
++Ela
++Abl
++Ess
++Tra
+
+!! %>                        !! morpheme boundary (Apertium)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Root
+
+!! can alsow write:
+!! 0  Noun-stems ;
+!! 0  Verb-stems ;
+
+Noun-stems ;
+Verb-stems ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-Infl-I
+
++InfA:a # ;
++1_Sg:n # ;
++2_Sg:t # ;
++1_Pl:mme # ;
++2_Pl:tte # ;
++3_Pl:vat # ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-Infl-I
+
+!! OK too: 
+!! +Nom:    # ; !!                       Nominative
+
++Nom:0    # ; !!                       Nominative
++Gen:n    # ; !! of                 !! Genitive
++Ine:ssa  # ; !! in                 !! Inessive 
++Ade:lla  # ; !! at                 !! Adessive 
++All:lle  # ; !! onto               !! Allative 
++Ela:sta  # ; !! out-of from-within !! Elative
++Abl:lta  # ; !! from               !! Ablative 
++Ess:na   # ; !! as                 !! Essive
++Tra:ksi  # ; !! as-into            !! Translative
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-stems
+
+talo+Noun:talo    Noun-Infl-I ;   ! (house)
+pala+Noun:pala    Noun-Infl-I ;   ! (piece)
+savu+Noun:savu    Noun-Infl-I ;   ! (smoke)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-stems
+
+palaa+Verb+Present:pala    Verb-Infl-I ;   ! (burn)
+ajaa+Verb+Present:aja      Verb-Infl-I ;   ! (drive)

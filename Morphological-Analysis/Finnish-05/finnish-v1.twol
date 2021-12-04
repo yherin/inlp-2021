@@ -1,0 +1,64 @@
+Alphabet
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z ä ö å
+a:ä o:ö u:y
+
+I:i  I:e
+t:0
+
+;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Sets 
+
+Vowel =  a o u  ä ö y  e i  V I ;
+
+VowelBack = a o u  ;
+
+VowelFront = ä ö y ;
+
+VowelNeut = e i  I ;
+
+Cons = b c d f g h j k l m n p q r s t v w x z ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Rules 
+
+"Remove morpheme boundary"
+%>:0 <=> _ ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! VOWEL HARMONY
+!! explanation of fronting in /Finnish-02/
+!! version 3: simplify fronting-2b: simpler version of the => rule
+"Vowel FRONTING # 3b"
+VowelBack:VowelFront /<=  :VowelBack  :* _  ; !! 3b
+
+!! in the <= rule fronting-2a: flip the tapes of the CVnonb:@ symbol 
+"Vowel FRONTING # 3a"
+VowelBack:VowelFront <=  # [ :VowelFront | :VowelNeut | :Cons ]+ %>:  :* _  ; !! 3a
+
+!! ensure that a morpheme boundary has been encountered: 
+!! forbid back-to-front changes in the STEM!
+"Vowel FRONTING # 1c"
+VowelBack:VowelFront  => %>:  :* _  ; !! 1c
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"VOWEL DOUBLING"
+V:Vx  <=>  :Vy  %>:  _  ;
+      where Vx in ( a e i o u y ä ö )
+            Vy in ( a e i o u y ä ö )
+      matched ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"Native -i nouns"
+I:i  <=>  _  %>:*  # ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"Consonant gradation -tt- --> -t-"
+t:0  <=>  t:t  _  Vowel %>: Cons  [ Cons | # ] ;  !! tt-t gradation version 1
+

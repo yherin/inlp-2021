@@ -1,0 +1,113 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Multichar_Symbols
+
++Noun                ! POS
++Verb                ! POS
+
+!! LEXICON Verb-Inflection-I
+
++Infinitive-A
++1Person_Singular
++2Person_Singular
++1Person_Plural
++2Person_Plural
++3Person_Plural
+
+!! LEXICON Noun-Inflection-I
+
++Nominative
++Genitive
++Inessive
++Adessive
++Allative
++Elative
++Ablative
++Essive
++Translative
+
+!! %>                        !! morpheme boundary (Apertium)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Root
+
+Noun-stems ;
+Verb-stems ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Clitics
+
+# ;
++Interrog:ko    # ;
++Emphatic:kin   # ;
++Negative:kaan  # ;
+
+
+LEXICON Verb-Inflection-I
+
++Infinitive-A:%>a   Clitics ;
++1Person_Singular:%>n   Clitics ;
++2Person_Singular:%>t   Clitics ;
++1Person_Plural:%>mme Clitics ;
++2Person_Plural:%>tte Clitics ;
++3Person_Plural:%>vat Clitics ;
+
+!! for VERB-FR class: verbs with no back vowels
+!!  LEXICON Verb-Inflection-FR
+!!  
+!!  +Infinitive-A:ä # ;
+!!  +1Person_Singular:n # ;
+!!  +2Person_Singular:t # ;
+!!  +1Person_Plural:mme # ;
+!!  +2Person_Plural:tte # ;
+!!  +3Person_Plural:vät # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-Inflection-I
+
+!! OK too: 
+!! +Nom:    # ; !!                       Nominative
+
++Nominative:%>0    Clitics ; !!                    
++Genitive:%>n    Clitics ; !! of                 
++Inessive:%>ssa  Clitics ; !! in                 
++Adessive:%>lla  Clitics ; !! at                 
++Allative:%>lle  Clitics ; !! onto               
++Elative:%>sta  Clitics ; !! out-of from-within 
++Ablative:%>lta  Clitics ; !! from               
++Essive:%>na   Clitics ; !! as                 
++Translative:%>ksi  Clitics ; !! as-into            
+
+
+!!  LEXICON Noun-Inflection-FR
+!!  
+!!  +Nominative:0    # ; !!                    
+!!  +Genitive:n    # ; !! of                 
+!!  +Inessive:ssä  # ; !! in                 
+!!  +Adessive:llä  # ; !! at                 
+!!  +Allative:lle  # ; !! onto               
+!!  +Elative:stä  # ; !! out-of from-within 
+!!  +Ablative:ltä  # ; !! from               
+!!  +Essive:nä   # ; !! as                 
+!!  +Translative:ksi  # ; !! as-into            
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Noun-stems
+
+talo+Noun:talo    Noun-Inflection-I ;   ! (house)
+pala+Noun:pala    Noun-Inflection-I ;   ! (piece)
+savu+Noun:savu    Noun-Inflection-I ;   ! (smoke)
+
+isä+Noun:isä      Noun-Inflection-I ;  ! (father)
+hissi+Noun:hissi  Noun-Inflection-I ;  ! (lift)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON Verb-stems
+
+palaa+Verb:pala    Verb-Inflection-I ;   ! (burn)
+ajaa+Verb:aja      Verb-Inflection-I ;   ! (drive)
+
+kysyä+Verb:kysy    Verb-Inflection-I ;  ! (ask)
+kestää+Verb:kestä  Verb-Inflection-I ;  ! (last)
