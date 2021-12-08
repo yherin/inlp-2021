@@ -28,7 +28,7 @@ Multichar_Symbols
 +Translative
 +Illative
 
-!! %>                        !! morpheme boundary (Apertium)
+ %>                        !! morpheme boundary (Apertium)
 !! +                         !! morpheme boundary
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -57,7 +57,6 @@ LEXICON Verb-Inflection-I
 +1Person_Plural:%>mme   Clitics ;
 +2Person_Plural:%>tte   Clitics ;
 +3Person_Plural:%>vat   Clitics ;
-+Imperative:%>X           ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON Noun-Inflection-I
@@ -85,7 +84,6 @@ pala+Noun:pala      Noun-Inflection-I ;   ! (piece)
 savu+Noun:savu      Noun-Inflection-I ;   ! (smoke)
 ovi+Noun:ovI        Noun-Inflection-I ;   ! (door) !! oveko
 katto+Noun:katto    Noun-Inflection-I ;   ! (roof)
-kaste+Noun:kaste    Noun-Inflection-I ;   ! (baptism)
 
 isä+Noun:isä        Noun-Inflection-I ;  ! (father)
 hissi+Noun:hissi    Noun-Inflection-I ;  ! (lift)
@@ -107,6 +105,9 @@ poika+Noun:poika    Noun-Inflection-I ;  ! (boy)
 aika+Noun:aika Noun-Inflection-I ; ! ( time)
 
 puku+Noun:puku      Noun-Inflection-I ;  ! (dress/suit)
+
+jälki+Noun:jälki    Noun-Inflection-I ;  ! (trace)
+kyky+Noun:kyky      Noun-Inflection-I ;  ! (ability)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

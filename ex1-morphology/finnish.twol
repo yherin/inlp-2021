@@ -5,9 +5,7 @@ a:ä o:ö u:y
 
 I:i  I:e
 t:0  t:d
-
 ⛒:0
-J:0
 ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -23,9 +21,7 @@ VowelNeut = e i I;
 
 Cons = b c d f g h j k l m n p q r s t v w x z  J;
 
-NotI = a o u   ä ö y   e   I V b c d f g h j k l m n p q r s t v w x z  ;
-
-VowelNotUOrI = a o ä ö y   e   V;
+VowelNotU = a o ä ö  i  e  I V;
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Rules 
 
@@ -74,8 +70,8 @@ I:i  <=>  _  %>:* [ ⛒: | # ] ;
                                     _ Vowel:  (%>:)   Cons:  Vowel:  ;
                                     s: _  ;    !! never weaken "t" after "s"
 
-"Gradation kk->k: a"    k:0   <=    k _ Vowel %>: Cons [ Cons | ⛒: | # ] ;
-"Gradation kk->k: b"    k:0   =>    k _ ;  !! delete only SECOND k
+"Gradation kk->k: a"    k:0   <=    k: _ Vowel %>: Cons [ Cons | ⛒: | # ] ;
+"Gradation kk->k: b"    k:0   =>    k: _ ;  !! delete only SECOND k
 "Gradation kk->k: c"    k:k   <=    _ k: ;   
                                     _ (%>:)   [ ⛒: | # ]  ;
                                     _ Vowel:  (%>:)   [ ⛒: | # ]  ;
@@ -84,21 +80,15 @@ I:i  <=>  _  %>:* [ ⛒: | # ] ;
                                     s: _  ;    !! never weaken "k" after "s"
 
 "Gradation pp->p: a"         p:0    <=    p:p _ Vowel %>: Cons [Cons | ⛒: | # ] ;
-"Gradation pp->p: b"         p:0    =>    p _ ; !! delete only first instance of p
+"Gradation pp->p: b"         p:0    =>    p: _ ; !! delete only first instance of p
 "Gradation pp->p: c"         p:p    <=    _ k: ;
                                           _         (%>:)   [ ⛒:  # ]  ;
                                           _ Vowel:  (%>:)   [ ⛒: | # ]  ;
                                           _ Vowel:  (%>:)   Vowel:  ;
                                           _ Vowel:  (%>:)   Cons:  Vowel:  ;
 
-"Gradation p->v: a"           p:v   <=>   Vowel  _  Vowel %>: Cons  [ Cons | ⛒: | # ] ;
-"Gradation t->d: a"           t:d   <=>   [ Vowel | h ] _  Vowel %>: Cons  [ Cons | ⛒: | # ] ;
-"Gradation k->0: a"           k:0   <=>   VowelNotUOrI _ VowelNotUOrI %>: Cons [ Cons | ⛒: | # ] ;
-"Gradation k->j: a"           k:j   <=>   [ i | J | I ] _ Vowel %>: Cons  [ Cons | ⛒: | # ] ;
-"Gradation k->v: a"           k:v   <=>   u _ Vowel %>: Cons  [ Cons | ⛒: | # ] ;
-"Gradation [a]ik->j: a"       i:J   <=>   a _ k Vowel %>: Cons  [ Cons | ⛒: | # ] ;
-"Gradation [a]ik->j: b"       J:0   <=> Vowel _ j ;       
-!aika
-!aJka
-!aJja
-!aja
+"Gradation p->v: a"           p:v   <=>   Vowel:  _  Vowel: %>: Cons:  [ Cons: | ⛒: | # ] ;
+"Gradation t->d: a"           t:d   <=>   [ Vowel: | h: ] _  Vowel: %>: Cons:  [ Cons: | ⛒: | # ] ;
+"Gradation k->0: a"           k:0   <=>   [ Vowel | i:j ] _ VowelNotU %>: Cons: [ Cons: | ⛒: | # ] ;
+"Gradation [u]k[u]->v: a"     k:v   <=>   [u|y] _ [u|y] %>: Cons:  [ Cons: | ⛒: | # ] ;
+"Gradation i[k]->j: a"        i:j   <=>   Vowel _ k: Vowel %>: Cons:  [ Cons: | ⛒: | # ] ;
