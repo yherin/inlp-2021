@@ -1,0 +1,527 @@
+@(#) International Ispell Version 3.1.20 (but really Aspell 0.60.8)
+& intperpreted 10 0: interpreted, interpreter, interpreters, interprets, interpret, uninterpreted, reinterpreted, interpreter's, interpretive, interrupted
+
+& invesigating 5 0: investigating, investing, infesting, envisaging, infecting
+
+& undercooked 9 0: under cooked, under-cooked, undercoated, uncooked, uncorked, undercoat, interlocked, undercharged, undercut
+
+& partygoer 33 0: party goer, party-goer, partaker, playgoer, partner, partake, partook, portage, patter, party, pardoner, partied, parties, Parker, Porter, perter, porter, pottage, purger, parterre, partakers, parkour, cartage, pardner, party's, portico, partaken, partakes, particle, portaged, portages, partaker's, portage's
+
+& spinoffs 25 0: spin offs, spin-offs, spiffs, sniffs, spoofs, spliffs, Smirnoff's, spins, Spinoza, spoof's, snuffs, spin's, spines, Sarnoff's, Spinoza's, sniff's, spine's, spinals, spinets, spinners, spinneys, spinal's, spinet's, snuff's, spinner's
+
+& cytotoxic 9 0: toxic, nontoxic, cytologist, statics, static, ataxic, cytology's, dyslexic, static's
+
+& lsat 31 0: LSAT, last, slat, Lat, SAT, Sat, lat, sat, least, lest, list, lost, lust, LSD, slate, lasts, ls at, ls-at, Las, Sta, SALT, lats, salt, blast, slit, slot, slut, last's, Lat's, La's, la's
+
+& responsibile 6 0: responsible, responsibly, responsibility, irresponsible, responsively, irresponsibly
+
+& rowhouse 27 0: rehouse, row house, row-house, roadhouse, rehoused, rehouses, House, house, rouse, roughhouse, firehouse, rogues, roues, poorhouse, reuse, rouses, whorehouse, sawhorse, hose, ruse, warehouse, Rhodes, horse, Roche's, rogue's, roue's, Rhone's
+
+& overprescribing 5 0: over prescribing, over-prescribing, oversubscribing, prescribing, proscribing
+
+& von 44 0: con, ON, on, Van, van, won, vino, vain, vein, vine, VOA, vow, Don, Hon, Jon, Lon, Mon, Ron, Son, don, eon, hon, ion, non, son, ton, vol, yon, Venn, Vern, vane, win, worn, Avon, wan, wen, No, no, wino, N, V, Vonda, n, v
+
+& beirut 13 0: Beirut, Brut, beret, Britt, Brit, bruit, brute, Beirut's, Bert, berate, Bret, brat, beaut
+
+& theatening 6 0: threatening, heartening, neatening, tautening, deadening, whitening
+
+& oiler 43 0: oilier, boiler, toiler, ogler, oiled, filer, miler, tiler, viler, oil, ole, Euler, ilea, oily, oleo, Ollie, oil er, oil-er, idler, older, IL, Oliver, osier, holier, flier, slier, Ila, Ill, Ola, ail, ale, ill, owl, voile, Olen, o'er, ogle, oils, oles, eviler, oil's, I'll, ole's
+
+& rainwear 22 0: rain wear, rain-wear, Rainier, rainier, rainwater, rawer, runway, ringer, rained, ranger, ranker, ranter, railway, ranee, rower, reindeer, rain, Rhine, rainy, renewal, wringer, Rainier's
+
+& psychatric 6 0: psychiatric, psychotic, psychiatry, psychometric, psychotropic, psychiatry's
+
+& greenbugs 9 0: green bugs, green-bugs, greenbacks, greenback's, greengages, greenback, greengage's, Grenoble's, Gutenberg's
+
+& rtose 59 0: Rose, rose, rots, rites, reties, rotors, rates, riots, roots, rot's, rotas, Rhodes, rats, redoes, rods, roes, rote, ruts, toes, Rosie, rise, rode, rouse, roses, Rte, rat's, roods, rte, rut's, RDS, rides, Rios, Rosa, Ross, dose, rhos, rosy, ruse, toss, Root's, riot's, root's, roost, rotor's, rote's, Rod's, rod's, Rita's, rate's, rite's, rood's, Rose's, rose's, Rio's, rho's, Ride's, ride's, roe's, toe's
+
+& paperhandlers 9 0: paper handlers, paper-handlers, panhandlers, paperhangers, panhandler's, paperhanger's, panhandles, panhandle's, panhandler
+
+& midafternoon 8 0: mid afternoon, mid-afternoon, afternoon, Mideastern, Middleton, Middletown, midtown, midtown's
+
+& sawtooth 23 0: saw tooth, saw-tooth, sooth, tooth, smooth, soothe, toothy, seaworthy, satori, Sarto, South, sooty, south, Stout, sloth, stoat, stood, stool, stoop, stout, stooge, Sarto's, soot's
+
+& cmpaign 14 0: campaign, camping, comping, campaigns, campaigned, Champaign, comparing, company, complain, campaign's, campaigner, coping, gimping, jumping
+
+& vacilliating 8 0: vacillating, vacillation, oscillating, valuating, vacillate, violating, vacillated, vacillates
+
+& embarassment 3 0: embarrassment, embarrassments, embarrassment's
+
+& indepependent 5 0: independent, interdependent, independents, independent's, independently
+
+& thermoneutron 11 0: thermometric, neutron, terminating, Remington, minestrone, Thurmond, fermentation, Honduran, Farmington, Thurmond's, emendation
+
+& designee 10 0: designer, designed, designers, design, designate, assignee, designer's, signer, soignee, destine
+
+& appproved 13 0: approved, app proved, app-proved, approves, approve, proved, apprised, apprized, unapproved, improved, unproved, approval, reproved
+
+& yearend 24 0: yearned, yea rend, yea-rend, year end, year-end, Yaren, trend, rend, yawned, errand, gerund, parent, Rand, rand, craned, rained, veranda, brand, grand, aren't, reined, rent, rind, weren't
+
+& ejido 80 0: judo, eked, Enid, Jedi, egad, Guido, Ecuador, Jodi, elide, kiddo, Jed, kid, Enkidu, escudo, Ed, ID, JD, ed, id, edit, Jidda, Jody, Judd, Jude, Judy, Kidd, eider, Eliot, endow, skid, Eco, Eddie, IDE, Ida, Ito, OKed, ado, aid, audio, edged, egged, ego, ergot, EDT, ETD, Indio, end, exude, editor, Aida, Edda, Eddy, Eggo, Gide, aide, eddy, equity, ergo, exit, jade, jato, quid, Aldo, Ovid, acid, amid, arid, avid, emit, eyed, ibid, undo, aged, I'd, Quito, edict, eject, evict, guide, oxide
+
+& acknowledgement 4 0: acknowledgment, acknowledgments, acknowledgment's, acknowledged
+
+& wby 86 0: by, WY, bey, Yb, bay, boy, bu, buy, way, why, wry, B, b, BA, BB, BO, Ba, Be, Bi, be, bi, BBB, bur, eBay, bee, QB, Web, bye, web, Wyo, buoy, BIA, baa, bah, bar, bio, boa, boo, bow, Rwy, fwy, hwy, Webb, obey, AB, BC, BM, BP, BR, BS, Bk, Br, CB, Cb, GB, KB, Kb, MB, Mb, NB, Nb, OB, Ob, Pb, Rb, Sb, TB, Tb, ab, bf, bk, bl, bx, dB, db, lb, ob, tb, vb, Abby, Ruby, Toby, baby, ruby, by's, B's
+
+& identifed 7 0: identified, identifies, identifier, identify, identifiers, unidentified, identity
+
+& unbeholden 15 0: beholden, beholding, unbidden, embolden, unbolting, unbeaten, unbolted, unburden, unhealed, unladen, unbolt, unbending, unfolding, unbolts, unbuckled
+
+& clemencies 12 0: clemency's, Clemenceau, Clemenceau's, Clemens, clemency, Clements, Clemens's, commences, Clement's, Clements's, calumnies, Clarence's
+
+& prodcucts 7 0: products, product's, predicts, projects, protects, protracts, project's
+
+& ealry 31 0: early, Elroy, Earl, aery, earl, Earle, earls, Leary, Malory, Valery, eatery, salary, Eloy, airy, ally, awry, Larry, Emery, Emory, emery, every, Alar, Elyria, AL, Al, Lara, Lr, Orly, Earl's, earl's, Elroy's
+
+& substitutable 5 0: substitute, substituted, substitutes, substituting, substitute's
+
+& rainforest 6 0: rain forest, rain-forest, reforest, reinforced, unfairest, reinvest
+
+& catalogue 7 0: cataloger, catalog, cataloged, catalogs, catalog's, catalogers, cataloger's
+
+& dropoff 16 0: drop off, drop-off, ripoff, dropout, droop, drooped, droopy, drop, dropped, droops, droop's, drops, dropper, drop's, dropsy, troop
+
+& unipurpose 13 0: uni purpose, uni-purpose, interpose, unpeople, inputs, input's, unwraps, underpass, unpicks, underpays, unpacks, underpass's, Annapurna's
+
+& popoluation 10 0: population, populations, copulation, spoliation, pollution, populating, population's, depopulation, peculation, palpation
+
+& footsoldier 5 0: foot soldier, foot-soldier, outsold, footplate, footstool
+
+& myers 13 0: Myers, Meyers, Mayer's, Meyer's, Ayers, Byers, dyers, Myers's, mayors, Meyers's, mayor's, Dyer's, dyer's
+
+& singlehandedly 2 0: underhandedly, splendidly
+
+& counterpunch 13 0: counter punch, counter-punch, counterpane, counterpanes, counterpoint, counterpane's, countering, countersunk, counterpoints, counterman, countermen, counterpart, counterpoint's
+
+& weeklong 10 0: week long, week-long, weakling, weaklings, weakling's, waggling, wiggling, clang, clonk, clung
+
+& orginate 9 0: originate, ordinate, ornate, paginate, urinate, ignite, originator, cognate, organdy
+
+& ust 50 0: ST, St, US, UT, Ut, st, us, oust, EST, est, bust, dust, gust, just, lust, must, rust, SST, USA, USO, USS, use, usu, CST, DST, HST, MST, PST, USB, USN, USP, ult, USDA, used, East, asst, east, erst, AZT, its, U's, outs, suet, suit, Ats, US's, UT's, it's, At's, out's
+
+& thea 25 0: Thea, theta, Rhea, rhea, the, tea, thee, thew, they, Thar, thaw, Thai, them, then, Shea, Th, Thieu, their, Thu, tho, thy, Thor, Thur, thou, Thea's
+
+& hydrosulfite 4 0: hydrosphere, hydrochloride, hydrolyzed, hydroplaned
+
+& unenthusiastically 4 0: unenthusiastic ally, unenthusiastic-ally, enthusiastically, unenthusiastic
+
+& midmorning 32 0: mid morning, mid-morning, morning, maddening, adorning, damning, droning, mooning, mourning, miming, mining, motoring, widening, admiring, darning, demeaning, donning, downing, moaning, disowning, limning, mimicking, motioning, murmuring, summoning, adjourning, drowning, middling, mitering, midpoint, bemoaning, marooning
+
+& neighborhhod 4 0: neighborhood, neighborhoods, neighborhood's, neighbored
+
+& judgeships 6 0: judgeship's, judgeship, judge ships, judge-ships, judges hips, judges-hips
+
+& lifestlye 3 0: lifestyle, lifestyles, lifestyle's
+
+& abou 55 0: about, AB, ab, Abby, arbor, ABA, Abe, Ibo, obi, abbe, oboe, OB, Ob, ob, abbey, abut, boy, Au, BO, bu, abbot, abhor, ably, abode, abort, above, amour, ABC, ABM, ABS, IOU, abs, boa, boo, bow, AOL, APO, Bob, HBO, ado, ago, bob, ebb, labor, taboo, tabor, AB's, Abel, abbr, abed, abet, able, Abe's, Ibo's, abs's
+
+& assocations 14 0: associations, association's, avocations, allocations, assignations, avocation's, allocation's, assertions, evocations, assignation's, assertion's, evocation's, isolation's, arrogation's
+
+& districtwide 14 0: district wide, district-wide, distracted, destructed, districts, district, district's, destructive, distributed, distrusted, distracting, redistricted, distract, restricted
+
+& effots 36 0: efforts, effort's, affords, effort, effs, effects, foots, effete, fits, forts, Effie's, effect's, EFT, ergot's, feats, hefts, lefts, lofts, wefts, effuse, foot's, UFOs, eats, fats, offs, Eliot's, Evert's, UFO's, fit's, fort's, feat's, heft's, left's, loft's, weft's, fat's
+
+& maitre 46 0: mature, maturer, mater, miter, matte, Maitreya, mare, martyr, mate, matter, mire, mite, satire, meatier, moire, Lemaitre, matured, matures, metro, Marie, Mattie, muter, Martel, attire, mantra, marred, marten, maters, miters, Mamore, Sartre, manure, mitered, Madera, mart, metier, tire, mired, mastery, matey, MIT, Marta, Marty, mat, meter, miter's
+
+& telecopy 14 0: telescope, telex, Teletype, teletype, teacup, toecap, gelcap, TLC, delicacy, talc, Telugu, TLC's, dollop, talc's
+
+& econony 21 0: economy, econ, coning, Canon, Conan, canon, Inonu, Onion, onion, exon, Corning, coining, conning, corning, Cannon, cannon, icon, O'Connor, agony, uncanny, O'Connor's
+
+& possibile 6 0: possible, possibly, possibles, passable, possible's, possibility
+
+& irreversibility 3 0: reversibility, irreversibly, irreversible
+
+& forseeable 10 0: foreseeable, freezable, fordable, forcible, feeble, Foosball, friable, fusible, feasible, forcibly
+
+& occured 21 0: occurred, accrued, occur ed, occur-ed, cured, accursed, occupied, acquired, occlude, uncured, accused, scoured, secured, cored, augured, accrue, accurate, cred, reoccurred, cared, oared
+
+& judgement 17 0: judgment, augment, segment, figment, pigment, casement, ligament, Clement, clement, garment, argument, regiment, Juggernaut, juggernaut, augmenter, cogent, cajolement
+
+& da 100 0: DA, DAR, DEA, DOA, Day, day, AD, ad, DAT, DNA, Dan, dab, dad, dag, dam, D, SA, d, fa, A, a, DD, DE, DI, Di, Du, Dy, TA, Ta, dd, do, ta, dear, Ada, FDA, Ida, RDA, DC, DH, DJ, DP, Dr, dB, db, dc, dz, AA, BA, Ba, CA, Ca, GA, Ga, Ha, IA, Ia, LA, La, MA, Na, PA, Pa, QA, Ra, VA, Va, WA, ca, ea, ha, la, ma, pa, ya, yd, DOE, DUI, Dee, Dir, Doe, Dow, Tao, dew, die, doe, due, duh, duo, tar, tau, T, t, tea, Te, Ti, Tu, Ty, YT, ti, to
+
+& descendents 7 0: descendants, descendant's, decedents, descendant, dependents, decedent's, dependent's
+
+& coverup 11 0: cover up, cover-up, covered, covering, coverage, coverall, overripe, croup, carvery, creep, crap
+
+& whome 47 0: whom, home, whim, whole, whore, whose, wham, womb, worm, who me, who-me, women, Homer, homer, homey, WHO, who, woe, wormy, whims, who're, who've, warmer, whammy, whee, whoa, Hume, Lome, Nome, Rome, come, dome, heme, homo, some, tome, whop, woke, wore, wove, warm, whams, WHO's, who'd, who's, whim's, wham's
+
+& honoraria 7 0: honorary, honor aria, honor-aria, honorarily, honorarium, Honiara, honorer
+
+& homebuilding 8 0: home building, home-building, humbling, ambulating, embolden, humiliating, Hamilton, Humboldt
+
+& chloroflourocarbon 3 0: chlorofluorocarbon, chlorofluorocarbons, chlorofluorocarbon's
+
+& flyers 59 0: fliers, foyers, fryers, falters, filters, filers, flees, flues, layers, flyovers, Flores, flares, fellers, fillers, flier's, flue's, foyer's, fullers, Flowers, Folgers, flamers, fleets, flowers, folders, fryer's, players, slayers, fleas, flies, floes, fly's, lye's, falter's, filter's, Faye's, flairs, floe's, floors, flours, Frye's, filer's, flybys, layer's, flyover's, flare's, Fuller's, filler's, fuller's, fleet's, flower's, folder's, player's, slayer's, flea's, flair's, floor's, flour's, Flynn's, flyby's
+
+& freqently 10 0: frequently, frequent, frequents, frequenter, frequented, friendly, fragrantly, frequenters, frequenting, frequenter's
+
+& communalize 13 0: communal, criminalize, communally, commingles, commonality, commingle, commonalities, canalize, communities, commercialize, commonalty, commonplace, commonalty's
+
+& relased 26 0: released, relapsed, relaxed, related, relayed, re lased, re-lased, realest, leased, releases, reloaded, release, lased, pleased, realized, relates, relisted, replaced, relished, relaid, relate, relied, reused, relist, release's, relater
+
+& negiligence 5 0: negligence, negligence's, negligent, negligees, negligee's
+
+& skilfully 4 0: skillfully, skillful, soulfully, skinful
+
+& millenium 15 0: millennium, millenniums, millennium's, millennia, millennial, mullein, selenium, Mullen, milling, minim, mullein's, milliner, millings, plenum, milling's
+
+& arrythmia 5 0: arrhythmia, rhythm, asthma, uremia, anathema
+
+& homeport 22 0: home port, home-port, comport, honeypot, homeopath, import, hotpot, homebody, compote, heliport, homepage, homeward, hamper, homeopathy, homered, homiest, humped, impart, homed, hampers, humidor, hamper's
+
+& overdocument 19 0: over document, over-document, document, predicament, overcoming, medicament, overstatement, endowment, integument, ordainment, oddment, enjoyment, overground, argument, overturned, undocumented, enactment, overtaken, adornment
+
+& burley 29 0: burly, barley, burled, Hurley, Burl, burl, burlier, Berle, bully, Bailey, bailey, bile, burble, burgle, barely, bury, Barkley, Buckley, bale, blew, bole, bull, bugle, bulgy, bulky, burls, Burl's, burl's, barley's
+
+& acyclvir 8 0: acyclovir, acyclovir's, icicle, autoclave, icicles, enclave, icicle's, Ogilvy
+
+& expectable 7 0: expect able, expect-able, executable, exportable, expendable, exploitable, expandable
+
+& covenenience 5 0: convenience, governance, covenants, covenant's, governance's
+
+& diethyl 12 0: deathly, ethyl, methyl, Dorthy, dirtily, Ethel, dither, Tethys, detail, diesel, lethal, withal
+
+& shurgged 9 0: shrugged, chugged, shagged, shirked, hugged, surged, charged, sharked, shucked
+
+& rearview 38 0: review, rear view, rear-view, reeve, revue, reviews, preview, raver, heavier, nervier, purview, readier, reserve, reviewer, ravine, receive, repave, revile, revise, revive, Rev, rev, faerie, derive, rear, relive, review's, eave, reverie, reviler, reviser, Ravel, raved, ravel, raven, raves, revel, rave's
+
+& hullaboo 32 0: hullabaloo, halloo, lullaby, hulls, Hilario, Hull, hula, hull, halloos, labor, hulas, Hillary, hulling, hallow, hollow, huller, Hull's, Malabo, hellos, hula's, hull's, hulled, hellebore, belabor, bellboy, hellion, hullers, tallboy, wallaby, huller's, halloo's, hello's
+
+& combatting 15 0: combating, com batting, com-batting, combat ting, combat-ting, combusting, committing, combing, cohabiting, combatant, commuting, combative, combining, competing, computing
+
+& campesinos 15 0: Campinas, campaigns, campsites, campaign's, camping's, Sampson's, campsite's, complains, companions, compositors, composing, Campinas's, compassion's, companion's, compositor's
+
+& estiamted 9 0: estimated, estimate, estimates, estimate's, satiated, estate, estimator, intimated, esteemed
+
+& coli 37 0: coil, Colo, Colin, colic, COL, Col, col, COLA, Cali, Cole, cola, coll, clii, cool, collie, color, coolie, Clio, coal, cowl, Colt, cold, cols, colt, Cl, cl, cloy, Coyle, coley, coyly, Cal, cal, Kali, call, cull, kola, Col's
+
+& plantiff 15 0: plaintiff, plan tiff, plan-tiff, plaintiffs, planting, plaintive, pontiff, plaintiff's, plant, plantain, plants, plentiful, plantar, planter, plant's
+
+& aizu 74 0: Ainu, AZ, AIs, AI's, airs, Uzi, Oz, oz, Ariz, oozy, AI, Au, icy, usu, As, adieu, airy, as, is, size, AZT, Au's, IOU, air, air's, ooze, ouzo, ICU, Liz, aid, ail, aim, biz, viz, wiz, A's, AWS, I's, IRS, ISO, ISS, Ice, ace, ass, iOS, ice, baize, maize, AIDS, adze, aids, ails, aims, Aida, Giza, Liza, aide, fizz, tizz, AA's, Ar's, As's, Esau, Oise, orzo, AZ's, IOU's, Ainu's, Io's, Ir's, aid's, aim's, AWS's, ass's
+
+& onwards 16 0: inwards, onward, on wards, on-wards, inward, downwards, innards, outwards, awards, Edwards, upwards, award's, loanwords, Edward's, innards's, loanword's
+
+& amur 16 0: Amur, amour, Amer, Amie, Armour, Amy, AM, Am, am, armor, emir, AMA, emu, Omar, ammo, Amur's
+
+& dealmaker 11 0: deal maker, deal-maker, toolmaker, steelmaker, Delmar, Delmer, lawmaker, damage, talker, Delmar's, Delmer's
+
+& resolvers 16 0: resolves, resolver, resolve's, revolvers, re solvers, re-solvers, resolve rs, resolve-rs, resolved, resoles, resolve, solvers, revolver's, revolves, resellers, solver's
+
+& videocassettee 3 0: videocassette, videocassettes, videocassette's
+
+& signalling 15 0: signaling, signal ling, signal-ling, signalizing, singling, signing, signally, snailing, snarling, signalman, signalmen, squalling, signalize, jingling, signal
+
+& sizeable 22 0: sizable, size able, size-able, singable, sable, disable, squeezable, suitable, sizzle, stable, Isabel, sociable, usable, salable, savable, satiable, kissable, settable, syllable, sizzler, sisal, serviceable
+
+& hourlong 24 0: hour long, hour-long, hurling, furlong, holing, hauling, howling, hulling, hulking, headlong, hurling's, yearlong, Hung, Long, hung, long, haling, haloing, Halon, Huang, halon, Hmong, along, Harlan
+
+& esthetics 7 0: aesthetics, aesthetics's, aesthetic, anesthetics, anesthetic's, aesthetes, aesthete's
+
+& externalities 3 0: externalizes, externalized, externalize
+
+& regoranized 3 0: reorganized, recognized, recolonized
+
+& megadeal 15 0: mega deal, mega-deal, megadeath, medal, misdeal, medial, Mendel, Mandela, meagerly, medical, Godel, modal, model, magical, Miguel
+
+& landsite 11 0: Landsat, land site, land-site, landslide, lands, handset, landslid, Landsat's, blindside, Land's, land's
+
+& sumbit 23 0: submit, summit, sum bit, sum-bit, ambit, summat, gambit, smut, smite, gumboot, Semite, sabot, Sumter, somber, samba, sambaed, smart, smelt, Zambia, sorbet, subbed, summed, zombie
+
+& inpeded 17 0: impeded, indeed, inputted, upended, invaded, unimpeded, unneeded, unheeded, unleaded, unopened, unpeeled, unseeded, ended, appended, unaided, inserted, inverted
+
+& digitalized 4 0: digitized, devitalized, digitalis, digitalis's
+
+& multicandidate 4 0: multi candidate, multi-candidate, maladjusted, malcontent
+
+& politican 12 0: politician, political, politic an, politic-an, politicking, politics, politic, politico, politicos, politics's, pelican, politico's
+
+& gastronomer 6 0: gastronome, astronomer, gastronomes, gastronomy, gastronomic, gastronomy's
+
+& starship 29 0: star ship, star-ship, stars hip, stars-hip, steamship, stash, strip, hardship, smashup, startup, stashing, starch, starchier, starchily, starching, satrap, starchy, stash's, stashed, stashes, tutorship, stripe, stripy, strop, headship, starch's, starched, starches, strep
+
+& ie 100 0: IE, Ir, OE, IDE, IED, Ice, Ike, ice, ire, E, I, e, i, IA, Ia, Io, ii, EU, Eu, OR, Ur, or, ow, Lie, die, fie, hie, lie, pie, tie, vie, ER, Er, O, U, ea, eh, er, o, u, ID, IL, IN, IP, IQ, IT, IV, In, It, id, if, in, is, it, iv, ix, Be, Ce, DE, Fe, GE, Ge, He, Le, ME, Me, NE, Ne, PE, Re, SE, Se, Te, Xe, be, he, me, re, we, ye, AI, EOE, IEEE, air, oi, AR, Ar, EEO, IOU, OH, aw, oh, uh, A, a, iii, o'er, AA, Au, ah
+
+& ambience 9 0: ambiance, ambiances, ambient, Eminence, eminence, ambulance, ambiance's, imminence, lambency
+
+& taxability 16 0: tax ability, tax-ability, traceability, tractability, capability, tenability, disability, tactility, taxable, usability, tangibility, scalability, curability, durability, equability, likability
+
+& plexiglass 3 0: Plexiglas's, Plexiglases, Plexiglas
+
+& miniscule 11 0: minuscule, minuscules, minuscule's, meniscus, monocle, muscle, musicale, manacle, maniacal, miscall, meniscus's
+
+& semiactive 8 0: semi active, semi-active, seductive, selective, semiquaver, smacked, sanctify, skydive
+
+& ths 43 0: Th's, this, thus, Hts, HS, Th, ts, these, those, Thu, the, tho, thy, T's, THC, ohs, Thais, Thurs, thaws, thees, thews, thous, DHS, HHS, TVs, VHS, tbs, Rh's, H's, Thai's, Thar's, Thea's, Thor's, thaw's, thew's, thou's, Ta's, Te's, Ti's, Tu's, Ty's, oh's, ti's
+
+& writeoffs 15 0: write offs, write-offs, writes, writers, ripoffs, writer's, riffs, toffs, cutoffs, ripoff's, runoffs, riff's, cutoff's, runoff's, Ratliff's
+
+& sparkplug 13 0: spark plug, spark-plug, sparkling, sparkly, sparkle, sparkler, sparkled, sparkles, sparkle's, sparklers, sugarplum, Spackle, sparkler's
+
+& warfighting 6 0: war fighting, war-fighting, weighting, wafting, fighting, waiting
+
+& represenative 9 0: Representative, representative, representatives, representing, represented, representative's, represent, represents, representation
+
+& deregulatory 6 0: regulatory, deregulate, deregulated, deregulates, derogatory, deregulating
+
+& acertain 11 0: ascertain, certain, ascertains, appertain, acerbating, uncertain, acetone, aerating, ascertained, asserting, attain
+
+& pipeliner 21 0: pipeline, pipelines, pipe liner, pipe-liner, pipeline's, poplin, tapeline, peopling, plainer, Pippin, piling, piping, pippin, planer, spieling, spline, poplin's, Pauline, peeling, pilling, pipping
+
+& firecraker 13 0: firecracker, firecrackers, firecracker's, firebreak, friedcake, freakier, firebrick, firetruck, freaked, firebreaks, firescreen, fishcake, firebreak's
+
+& madate 23 0: mandate, madame, mediate, mutate, ma date, ma-date, mad ate, mad-ate, mated, MDT, date, made, mate, matted, moated, manatee, radiate, matte, Madam, Marat, Sadat, madam, sedate
+
+& antiprejudice 25 0: anti prejudice, anti-prejudice, unprejudiced, antiparticles, Antipodes, antipodes, introduce, interpretive, outproduce, antiproton, antiprotons, antiparticle's, intrudes, interdicts, antiquities, interpretative, Enterprise, enterprise, antipodes's, antiquates, entreaties, antiproton's, indirect, interdict's, antiquity's
+
+& procede 14 0: proceed, precede, priced, pro cede, pro-cede, proceeded, proceeds, proved, prized, procedure, preceded, precedes, recede, probed
+
+& papilloma 7 0: papilla, papillae, papilla's, Palomar, papillary, diploma, aplomb
+
+& counterterrorism 7 0: counter terrorism, counter-terrorism, contrarianism, Contreras, contraries, Contreras's, contrary's
+
+& stilbestrol 1 0: stylistically
+
+& moustache 5 0: mustache, mustached, mustaches, mustachio, mustache's
+
+& ridgeback 14 0: ridge back, ridge-back, piggyback, roebuck, hogback, ragbag, rickrack, rollback, razorback, kickback, Rickenbacker, reembark, Reebok, ragbag's
+
+& stateraises 15 0: state raises, state-raises, statehouses, statuses, satyriasis, statehouse's, statures, staterooms, stresses, satirizes, stateroom's, stature's, satyriasis's, statuary's, testatrices
+
+& unbundled 7 0: unbounded, unbridled, bundled, unfunded, unbuckled, unbranded, unburdened
+
+& campesino 31 0: composing, camping, compassing, campaign, campsite, campers, campaigns, compering, competing, camps, Campinas, Sampson, campiest, compassion, compressing, comprising, Campos, camp's, campus, complain, comping, camper's, companion, campaign's, composting, compelling, compositor, Campos's, campus's, imposing, camping's
+
+& unwintry 8 0: unwonted, unwind, infantry, unwanted, unwinds, unsanitary, inventory, unwinding
+
+& resegregated 6 0: desegregated, re segregated, re-segregated, segregated, resurrected, restricted
+
+& keffiyeh 26 0: Jeffrey, Jeffry, jiffies, Geffen, Jefferey, Jeffery, Jeff, foyer, jiffy, Geoffrey, Coffey, Jeff's, fayer, Kevin, caffeine, jiffy's, coffee, coffer, gaffer, coffin, cuffed, gaffed, gaffes, goofier, Coffey's, gaffe's
+
+& certficate 4 0: certificate, certificated, certificates, certificate's
+
+& hardline 13 0: hardliner, Hartline, headline, headliner, hurdling, hard line, hard-line, hardliners, hairline, Hardin, Harding, hardliner's, Hartline's
+
+& imager 14 0: imagery, image, imaged, images, imago, meager, mage, image's, imagoes, Maker, eager, maker, imper, imago's
+
+& trian 12 0: Trina, train, Tran, Tirane, Turin, tron, Brian, triad, trial, drain, Terran, Dorian
+
+& ack 46 0: AC, AK, Ac, ac, ck, Ark, ark, auk, Jack, Mack, back, hack, jack, lack, pack, rack, sack, tack, wack, ARC, aka, arc, ax, ACT, act, ask, ace, oak, icky, Ag, EC, OK, UK, Eyck, Aug, Eco, ICC, ICU, age, ago, ecu, eek, irk, oik, AC's, Ac's
+
+& unburied 21 0: unbarred, inbred, inbreed, unhurried, unvaried, uncured, untried, inured, inquired, unbid, injured, insured, unbind, unpaired, unmarried, unwearied, unworried, endured, ensured, unbaked, unbowed
+
+& rex 58 0: Rex, rec, TeX, Tex, Rx, Re, re, ex, regex, reg, res, Mex, hex, sex, vex, Roxy, roux, REM, Rep, Rev, red, ref, rel, rem, rep, rev, recce, rec's, RC, reeks, exp, ext, Rex's, Rolex, relax, remix, Re's, Roeg, re's, reek, roes, rues, Roxie, rages, rakes, rs, Durex, Pyrex, Crux, crux, R's, Rae's, roe's, rue's, Roeg's, rage's, rake's, reek's
+
+& threshhold 8 0: threshold, thresh hold, thresh-hold, thresholds, threshold's, threshed, threefold, thrashed
+
+& discpline 10 0: discipline, disciplined, disciplines, descaling, disciple, discipline's, disincline, spline, dispelling, decline
+
+& essentialy 4 0: essentially, essential, essentials, essential's
+
+& refuseniks 56 0: refuses, refuse's, refusing, refastens, refusals, refuges, resents, refuge's, refugees, refineries, revenges, redskins, refiners, rednecks, refrains, refugee's, refusal's, Eysenck's, funks, referents, roughnecks, profuseness, redskin's, refiner's, refrain's, ruefulness, Ruskin's, references, referent's, rescinds, rethinks, Refugio's, resinous, revenues, revisers, reascends, reasons, revenge's, rustics, redneck's, refulgence, reviser's, funk's, roughneck's, reason's, refinery's, reference's, Rossini's, arsenic's, rethink's, Evenki's, retsina's, revenue's, rustic's, ruefulness's, profuseness's
+
+& supervivor 7 0: supervisor, survivor, supervise, survive, supernova, superfine, supervene
+
+& chincoteague 7 0: chinked, Chengdu, changed, chunked, shindig, Chengdu's, hangdog
+
+& responsiblity 5 0: responsibility, responsibly, responsibility's, irresponsibility, responsible
+
+& diehards 46 0: dotards, dreads, jihads, towheads, Dillard's, dullards, dieters, departs, dickheads, Erhard's, airheads, heads, herds, dead's, deeds, hoards, beheads, decades, dieter's, dads, dotard's, hearts, Doha's, diverts, dread's, jihad's, towhead's, darts, dullard's, harts, Head's, airhead's, head's, herd's, deters, deed's, hoard's, dad's, heart's, dirt's, Hardy's, decade's, Hart's, Hurd's, dart's, hart's
+
+& funfest 11 0: funnest, fun fest, fun-fest, finest, infest, funniest, fondest, funkiest, fainest, fluffiest, ferniest
+
+& diehard 35 0: die hard, die-hard, Dillard, heard, Erhard, dead, died, hard, dieted, dished, dotard, reheard, dread, jihad, towhead, dullard, dieter, depart, dickhead, Head, airhead, head, herd, Doha, Hardy, diet, hardy, hoard, dared, heart, ahead, Hart, Hurd, dart, hart
+
+& weaons 32 0: weapons, weans, wains, wens, warns, weens, wain's, weapon's, wanes, wen's, whens, wins, won's, wagons, winos, wean, weensy, eons, weakens, vans, wears, Wesson's, when's, win's, wear's, wagon's, wino's, eon's, wane's, Van's, van's, Wayne's
+
+& futher 19 0: further, Father, father, Luther, farther, feather, fut her, fut-her, fuhrer, furthers, Fathers, fathers, fetcher, fuehrer, ether, other, Reuther, Father's, father's
+
+& interagency 16 0: inter agency, inter-agency, infrequency, interregnum, interacts, intelligence, intravenous, interregnums, entrance, nitrogen's, intricacy, indigence, infrequence, indulgence, androgen's, interregnum's
+
+& intefadeh 18 0: intifada, interface, interfaced, interfaith, intrude, invade, intend, interned, interred, intercede, interfere, interfile, interlude, invaded, invader, interfered, interfiled, anteater
+
+& disatisfaction 3 0: dissatisfaction, satisfaction, dissatisfaction's
+
+& imbedded 7 0: embedded, impeded, embodied, imbued, amended, emended, imbibed
+
+& hitmen 33 0: hit men, hit-men, Hymen, hymen, bitumen, Hartman, headmen, Whitman, hidden, batmen, hymn, hoyden, Timon, boatmen, footmen, human, stamen, HTML, Harmon, Hayden, Herman, Hutton, harden, hitting, Heisman, Hickman, Pittman, sidemen, vitamin, Haman, headman, Atman, admen
+
+& suffragen 5 0: suffrage, suffragan, suffragans, suffrage's, suffragan's
+
+& ower 50 0: owe, owner, ewer, bower, cower, dower, lower, mower, power, rower, sower, tower, Owen, o'er, owed, owes, Oder, over, awe, ewe, ow er, ow-er, woe, Ore, ore, wear, wee, weer, weir, wooer, ER, Er, OE, OR, er, or, ow, we, ewers, Howe, Lowe, Rowe, Wei, oar, our, war, Iowa, shower, e'er, ewer's
+
+& outdoorsman 5 0: outdoors man, outdoors-man, outdoors, outdoors's, outdoorsy
+
+& submachine 11 0: sub machine, sub-machine, submarine, submariner, stomaching, smashing, submersion, submission, submerging, submersing, submitting
+
+& recpaitalization 6 0: recapitalization, capitalization, recapitulation, revitalization, recapitalizing, capitalization's
+
+& earler 24 0: earlier, Earle, earner, Earl, earl, Euler, early, earl er, earl-er, Earlene, ale, pearlier, Earle's, Alar, dealer, healer, realer, sealer, Adler, abler, eagle, earls, Earl's, earl's
+
+& amd 32 0: AMD, amid, ADM, Adm, mad, and, AD, AM, Am, MD, Md, ad, am, amt, Ahmad, Ahmed, Amado, aimed, amide, armed, ADD, AMA, Amy, WMD, add, aid, DMD, amp, EMT, AM's, Am's, AMD's
+
+& abolishment 10 0: abashment, banishment, abolished, embellishment, abolishing, aliment, habiliment, Establishment, establishment, abashment's
+
+& manufacturability 2 0: maneuverability, manufactured
+
+& recalibrated 9 0: re calibrated, re-calibrated, calibrated, calibrates, calibrate, recalculated, celebrated, deliberated, calibrator
+
+& cumulation 13 0: simulation, accumulation, emulation, copulation, compilation, humiliation, coagulation, commutation, jubilation, collation, formulation, completion, immolation
+
+& satisfacotry 3 0: satisfactory, satisfactorily, unsatisfactory
+
+& mujahedeen 4 0: mujaheddin, menhaden, McFadden, markdown
+
+& cornpone 19 0: corn pone, corn-pone, condone, Corning, corning, confine, Capone, coupon, convene, conjoiner, canine, coning, coping, conjoin, Canon, canon, capon, Cannon, cannon
+
+& unadjusted 9 0: adjusted, undigested, untasted, unattested, uneducated, inducted, untwisted, untested, entrusted
+
+& flyer 41 0: fayer, flier, foyer, fryer, fl yer, fl-yer, fly er, fly-er, falter, filter, filer, flee, flue, layer, fly, flyover, lye, flare, Fuller, feller, filler, flayed, fuller, falser, flamer, fliers, flower, folder, player, slayer, Faye, flea, flew, floe, Frye, fled, flair, floor, flour, fly's, flier's
+
+& prticular 16 0: particular, articular, piratical, particle, protocol, prickle, pronuclear, poetical, piratically, pricklier, prickly, practical, ridicule, prodigal, Portugal, prattler
+
+& murres 78 0: meres, mires, marries, mares, mores, Murrow's, mirrors, Morris, moires, mere's, mire's, murders, marrows, morrows, Mrs, mutes, More's, mare's, more's, curers, Mr's, Murray's, curries, hurries, mirror's, morose, surreys, Marie's, Maura's, Mauro's, Maurois, Mira's, Miro's, Moore's, Myra's, moire's, burrs, cures, lures, mules, murks, muses, purrs, murder's, MRI's, Maris, Muir's, Murray, Murrow, murals, Burr's, Morrow's, burr's, marrow's, morrow's, murk's, purr's, mute's, Mara's, Mari's, Mary's, Moro's, Durer's, curer's, Murat's, Murine's, myrrh's, mores's, Muse's, cure's, lure's, mule's, muse's, Muriel's, surrey's, Munro's, mural's, Morris's
+
+& counterprograms 3 0: counter programs, counter-programs, deprograms
+
+& ben 55 0: Ben, Bean, Bern, bean, been, Bend, Benz, bend, bent, Be, be, en, ban, bin, bun, bane, bone, Benny, Born, barn, being, born, burn, Eben, bee, bey, Gen, Ken, Len, Pen, Sen, Zen, bed, beg, bet, den, fen, gen, hen, ken, men, pen, sen, ten, wen, yen, zen, Bonn, Bono, bani, bony, boon, Ben's, Be's, e'en
+
+& cordobas 15 0: Cordoba's, Cordoba, cordons, cordon's, cordials, codons, codas, cords, cord's, carobs, Gordon's, carob's, coda's, cordial's, Cordelia's
+
+& contruction 12 0: construction, contraction, constriction, contrition, counteraction, contractions, conduction, contraption, contradiction, contribution, contracting, contraction's
+
+& flashpoints 14 0: flash points, flash-points, fleshpots, fleshpot's, fishponds, flashiness, flashing's, flashguns, fishpond's, ballpoints, flashgun's, flashlights, ballpoint's, flashlight's
+
+& discimination 10 0: discrimination, dissemination, dissimulation, domination, decimation, diminution, disseminating, dissemination's, designation, destination
+
+& arbritration 10 0: arbitration, arbitrating, arbitration's, irritation, obliteration, aberration, reiteration, Arbitron, abstraction, arbitraging
+
+& peole 24 0: people, prole, Pele, Pole, pole, Peale, Poole, Peel, peel, Pelee, pile, Pol, pol, peeler, Perl, Polo, Pyle, pale, peal, poll, polo, poly, pool, pule
+
+& aquitted 25 0: acquitted, squirted, squatted, quieted, abutted, equated, acquired, quoited, quoted, audited, acquainted, agitate, agitated, acted, awaited, gutted, jutted, kitted, acquittal, requited, abetted, emitted, omitted, coquetted, addicted
+
+& bas 100 0: BSA, BA's, Ba's, Bass, Boas, baas, bars, base, bass, bays, bias, boas, ABS, abs, baa, bags, bans, baps, bask, bast, bats, bras, BS, bad, bash, As, BA, Ba, as, B's, BBS, bis, bus, BS's, Bess, baa's, basso, bears, beaus, boa's, boars, boss, buss, bah, bar, bay, bps, bxs, Las, OAS, bag, ban, bap, bat, gas, has, mas, pas, was, Basie, bar's, baser, bay's, BIOS, Baez, Be's, Bi's, Bose, bees, beys, bi's, bios, boos, bows, boys, burs, busy, buys, by's, BB's, Bass's, Boas's, Yb's, bass's, bias's, bus's, biz, bra's, Beau's, Na's, Va's, bear's, beau's, boar's, A's, AB's, MBA's, NBA's, VBA's, bad's
+
+& fallopian 3 0: Fallopian, Fallopian's, fallowing
+
+& masse 58 0: Massey, Masses, massed, masses, Mass, mass, maser, manse, passe, mas, masseur, Maisie, Masai, Mass's, Mauser, mass's, mousse, MA's, Mace, Mars, Mays, Miss, Moss, Muse, ma's, mace, mars, maws, maze, mess, miss, moss, muse, muss, Meuse, Missy, Morse, maize, messy, moose, mossy, mouse, mussy, Mars's, Mays's, MS's, Mae's, Mai's, Mao's, Mar's, May's, maw's, may's, Moss's, mess's, miss's, moss's, muss's
+
+& likeliehood 4 0: likelihood, likelihoods, livelihood, likelihood's
+
+& stopoff 23 0: stop off, stop-off, stopover, spoof, stoop, stupefy, spiff, stiff, stooped, stop, stopped, stoops, staff, stuff, stoop's, stops, stopper, stopple, stupor, stop's, stoup, stupors, stupor's
+
+& technolgy 12 0: technology, technology's, technically, technologies, terminology, biotechnology, touchingly, Technicolor, technicolor, technical, technique, demonology
+
+& unroasted 14 0: untasted, unrated, unlisted, unrelated, untested, unsorted, unseated, unreported, unrest, encrusted, entrusted, unrest's, arrested, unsuited
+
+& ghe 35 0: ghee, GE, Ge, He, he, GHQ, gee, Geo, Ger, GTE, Che, GHz, she, the, G, g, Gaea, gar, goer, GA, GI, GU, Ga, go, GAO, GUI, Gay, Goa, Guy, Joe, Que, cue, gay, goo, guy
+
+& renogotiation 4 0: renegotiation, negotiation, renegotiating, renegotiation's
+
+& xpensive 11 0: pensive, expensive, Spence, Spenser, Spencer, responsive, spans, spins, Spenser's, span's, spin's
+
+& du 75 0: Du, DI, DUI, Di, Dy, due, duh, duo, dub, dud, dug, dun, D, d, U, u, DA, DD, DE, Tu, dd, do, yd, Day, Dir, day, die, dour, VDU, DC, DH, DJ, DP, Dr, dB, db, dc, dz, Au, Cu, EU, Eu, GU, Lu, Pu, Ru, Wu, bu, cu, mu, nu, DAR, DEA, DOA, DOE, Dee, Doe, Dow, Ti, Tue, Ty, dew, doe, ti, T, t, tau, TA, Ta, Te, YT, ta, to, wt, D's
+
+& friday 18 0: Friday, Fridays, Freida, Frieda, Faraday, Freda, Freddy, frat, fried, friary, Friday's, fray, fruity, Friedan, Fred, friar, Freida's, Frieda's
+
+& superstitution 7 0: superstition, substitution, supersaturation, superstitions, restitution, prostitution, superstition's
+
+& traumatological 5 0: tautological, dermatological, hematological, tautologically, terminological
+
+& bannings 20 0: banning, Banting's, banking's, Manning's, tanning's, binning, awnings, innings, Benin's, Bunin's, bananas, bindings, buntings, tannin's, awning's, inning's, banana's, binding's, bonding's, bunting's
+
+& spokeman 8 0: spokesman, spoke man, spoke-man, spoken, spokesmen, Pokemon, spaceman, Spokane
+
+& advertisments 5 0: advertisements, advertisement's, advertisement, advisement's, advertising's
+
+& esort 18 0: escort, sort, resort, EST, est, assort, East, east, erst, Ester, ester, sorta, Astor, sot, ESR, besot, Oort, soot
+
+& kernal 20 0: kernel, vernal, carnal, kennel, keenly, renal, journal, Kern, genial, kernels, Keenan, hernial, corneal, kraal, penal, venal, canal, Kennan, Kern's, kernel's
+
+& develped 11 0: developed, developer, deviled, developers, devalued, devolved, develops, develop, redeveloped, developer's, defiled
+
+& industrials 9 0: industrial, industrialism, industrialist, industrially, industrialize, industries, industrious, industrializes, industry's
+
+& seprating 32 0: separating, suppurating, spraying, prating, spiriting, spreading, sprouting, operating, spearing, sparring, spatting, secreting, separation, sparing, aspirating, pirating, sporting, spurting, sprain, spring, sprinting, spritzing, spiraling, splatting, spraining, sprawling, spading, spiting, spitting, spotting, spouting, spreeing
+
+& multijudge 10 0: multi judge, multi-judge, multitude, misjudge, multistage, Multics, multiple, multi, multimedia, multiverse
+
+& imposedin 12 0: impose din, impose-din, imposed in, imposed-in, imposed, impeding, imposing, imposition, impounding, impending, imploding, impost
+
+& abided 23 0: abides, abide, aided, abated, abodes, abused, avoided, abode, aborted, abutted, birded, boded, abed, baited, abraded, abased, abetted, added, bidet, abode's, elided, ibidem, orbited
+
+& biomorphs 24 0: bio morphs, bio-morphs, morphs, boomers, biomass, biomarkers, bumph, bumps, Morpheus, Morphy's, biomass's, bombers, bump's, humphs, nymphs, amorphous, bummers, bomber's, bummer's, biomarker's, nymph's, morphia's, Murphy's, lymph's
+
+& enrollees 6 0: enrolls, enrolled, unrolls, enroll, unrolled, ennobles
+
+& theophylline 11 0: thrilling, thralling, Havoline, feline, Fellini, felling, offline, refilling, thieving, befalling, shoveling
+
+& criicized 16 0: criticized, crucified, cruised, crazed, craziest, resized, crisped, curacies, crazies, capsized, precised, crazes, Croce's, graced, grazed, craze's
+
+& tatoo 33 0: tattoo, Toto, taboo, tat, Tate, Tito, Tatar, tater, tatty, tutor, ta too, ta-too, tot, tattoos, tart, tattooer, taut, teat, toot, tote, Tao, tarty, too, DAT, Tad, Tet, Tod, Tut, tad, tit, tut, tats, tattoo's
+
+& refinancings 4 0: refinancing, financing's, refinances, financing
+
+& identies 28 0: identifies, identities, denotes, identify, identity, dinettes, adenoids, identifiers, indents, unties, dents, ignites, dainties, eternities, indent's, Indies, dent's, identity's, indies, identifier, dinette's, adenoid's, aunties, dandies, denudes, adenine's, Dante's, auntie's
+
+& unelected 14 0: elected, inflected, infected, injected, uncollected, inflicted, unaffected, uneducated, unleaded, unlocked, unlisted, enacted, enlisted, unlighted
+
+& paralyzation 8 0: pluralization, paralyzing, moralization, penalization, parallelization, realization, serialization, polarization
+
+& longrange 16 0: long range, long-range, Lagrange, grange, downrange, longing, language, longhand, longings, lingering, linkage, lounging, Lagrange's, grunge, longing's, lunging
+
+& capita 12 0: capital, Capt, capt, Capote, Capet, ca pita, ca-pita, captor, carpet, pita, Capitol, capitol
+
+& poplular 5 0: popular, popularly, poplar, poplars, poplar's
+
+& crewmembers 25 0: crew members, crew-members, remembers, remember, members, Camemberts, renumbers, crammers, creamers, Camembert, misremembers, member's, Camembert's, creameries, dismembers, nonmembers, creamer's, crumbs, cambers, combers, cumbers, crumb's, nonmember's, camber's, comber's
+
+& tradable 12 0: gradable, treatable, trad able, trad-able, readable, tractable, traceable, trainable, trappable, treadle, treble, degradable
+
+& infiltrations 3 0: infiltration's, infiltration, filtration's
+
+& partygoers 35 0: party goers, party-goers, partakers, playgoers, partaker's, partners, partakes, portages, playgoer's, portage's, porticoes, Portuguese, parties, patters, pagers, pardoners, partner's, porters, purgers, parterres, partaker, pottage's, pardners, patter's, pager's, particles, cartage's, pardoner's, portico's, Parker's, Porter's, porter's, purger's, parterre's, particle's
+
+& theobromine 19 0: bromine, theremin, pheromone, theorizing, theremins, Thorazine, thiamine, theorem, therein, thrumming, thymine, bromide, throbbing, theremin's, chroming, theorems, throwing, theorem's, bromine's
+
+& backdown 17 0: back down, back-down, backdoor, markdown, breakdown, backbone, Bacon, bacon, beckon, knockdown, backing, Baden, backed, beacon, backdate, baton, codon
+
+& goverment 9 0: government, movement, ferment, governed, garment, conferment, pavement, foment, deferment
+
+& prospecti 8 0: prospect, prospector, prospects, prospectus, prospecting, prospective, prospect's, prospected
+
+& te 100 0: Te, Tue, tea, tee, tie, toe, ET, Ted, Tet, ted, tel, ten, tr, Re, T, re, t, the, ye, TeX, Tex, E, e, DE, TA, Ta, Ti, Tu, Ty, ta, ti, to, wt, tar, tier, tor, tow, GTE, Rte, Ste, Ute, ate, rte, TB, TD, TM, TN, TV, TX, Tb, Tc, Tl, Tm, tb, tn, ts, Be, Ce, Fe, GE, Ge, He, IE, Le, ME, Me, NE, Ne, OE, PE, SE, Se, Th, Xe, be, he, me, we, YT, tear, DEA, Tao, dew, tau, too, toy, yd, D, d, DOE, Dee, Doe, WTO, die, doe, due, DA, DD, DI, Di
+
+& photofinishers 7 0: photo finishers, photo-finishers, photofinishing, photofinishing's, finishers, finisher's, finishes
+
+& archeologists 34 0: archaeologists, archaeologist's, archaeologist, ecologists, ethologists, apologists, urologists, technologists, ideologists, ecologist's, anthologists, audiologists, ethologist's, geologists, apologist's, urologist's, pathologists, eulogists, technologist's, ideologist's, psychologists, archaeology's, radiologists, anthologist's, ufologists, audiologist's, oncologists, geologist's, pathologist's, eulogist's, psychologist's, radiologist's, ufologist's, oncologist's
+
+& detroyed 7 0: destroyed, betrayed, defrayed, detoured, deterred, strayed, Detroit
+
+& newsmaker 12 0: news maker, news-maker, noisemaker, newsman, newsmen, smacker, nonsmoker, newspeak, noisemakers, smoker, Newsweek, noisemaker's
+
+& weakenened 6 0: weakened, wakened, weakening, weekended, wakening, weekender
+
+& finacial 6 0: financial, finical, facial, finial, financially, final
+
+& imblanaces 10 0: imbalances, imbalance's, ambulances, imbalanced, imbalance, ambulance's, semblances, ambiances, semblance's, ambiance's
+
+& knowed 47 0: snowed, gnawed, kn owed, kn-owed, know ed, know-ed, kneed, bowed, lowed, mowed, owed, knifed, knocked, knotted, unwed, cowed, nosed, noted, rowed, sowed, towed, vowed, wowed, chowed, meowed, showed, node, knead, need, Ned, Wed, nod, wed, nodded, noised, noshed, knot, note, nowt, Swed, awed, newer, noway, wooed, winnowed, renewed, we'd
+
+& boulderlike 9 0: boulder like, boulder-like, birdlike, childlike, ladylike, boldly, bloodline, baldric, baldly
+
+& prerevolutionary 2 0: revolutionary, reflationary
+
+& boming 52 0: booming, bombing, boning, Boeing, booing, boding, boring, bowing, coming, doming, homing, Bimini, beaming, bumming, boxing, PMing, Bowman, Ming, becoming, blooming, bowman, bowmen, blaming, bromine, bumping, Domingo, boating, bobbing, bogging, boiling, boobing, booking, booting, boozing, bopping, bossing, bowling, buoying, foaming, forming, roaming, worming, being, bling, bring, Wyoming, dooming, looming, rooming, zooming, baaing, mooing
+
+& conveyer 12 0: conveyor, conveyed, convener, convey er, convey-er, converter, convey, conveyors, convene, conveys, convoyed, conveyor's
+
+& rulemaking 7 0: rule making, rule-making, remaking, remarking, rummaging, lawmaking, rainmaking
+
+& de 100 0: DE, DEA, DOE, Dee, Doe, dew, die, doe, due, Ed, ed, DEC, Dec, Del, Dem, Dr, deb, def, deg, den, dye, D, Fe, SE, Se, d, E, e, DA, DD, DI, Di, Du, Dy, Te, dd, do, DAR, Dir, Dow, deer, dewy, doer, IDE, ode, DC, DH, DJ, DP, dB, db, dc, dz, Be, Ce, GE, Ge, He, IE, Le, ME, Me, NE, Ne, OE, PE, Re, Xe, be, he, me, re, we, ye, dear, yd, DOA, DUI, Day, day, duh, duo, tea, T, t, Tue, tee, tie, toe, TA, Ta, Ti, Tu, Ty, YT, ta, ti, to, wt, D's
+
+& industrywide 9 0: industry wide, industry-wide, industries, industry, industry's, industrial, industrialize, industrialized, industrious
+
+& winemaking 11 0: wine making, wine-making, unmaking, moneymaking, winking, rainmaking, winemaker, winemakers, wanking, watermarking, winemaker's
+
+& reconcilation 5 0: reconciliation, reconciliations, conciliation, reconciliation's, reconciling
+
